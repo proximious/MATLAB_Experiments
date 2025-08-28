@@ -11,3 +11,7 @@ I wanted to create a linear fitter. The code generates a lot of random noisy dat
 *tutoring.m*
 
 Checking out some things like convergence, round off, truncation, Newton Raphson methods, and LU decomposition.
+
+*WineChemisty.m*
+
+Created a linear regression to find out what qualities in wine make it more enjoyable to drink from a given data set. 
