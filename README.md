@@ -23,3 +23,7 @@ Testing the trapezoid rule to plot a cooling time function.
 *stent_development.m*
 
 I wanted to see an example of a surf map, so I found an online example using probability of successful stent treatment.
+
+*total_fun.m*
+
+Used a model to find an optimal crowd density.
