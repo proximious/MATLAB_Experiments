@@ -27,3 +27,7 @@ I wanted to see an example of a surf map, so I found an online example using pro
 *total_fun.m*
 
 Used a model to find an optimal crowd density.
+
+*fermenation_model.m*
+
+Made a model to represent fermenation in foods.
